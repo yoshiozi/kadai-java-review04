@@ -19,7 +19,7 @@ public class Human extends Animal implements Thinkable{
     //thinkのメソッド作成
     @Override
     public void think() {
-        System.out.println("私は" + hobby + "について考えます。");
+        System.out.println("私は" + hobby + "について考えています。");
     }
     }
 
